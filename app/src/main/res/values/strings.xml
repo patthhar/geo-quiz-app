@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Geo Quiz</string>
+  <string name="question_one">Question 1</string>
+  <string name="question_two">Question 2</string>
+  <string name="question_three">Question 3</string>
+  <string name="question_four">Question 4</string>
+
+  <string name="button_true">True</string>
+  <string name="button_false">False</string>
+  <string name="button_previous">Previous</string>
+  <string name="button_next">Next</string>
+
+  <string name="answer_correct">Correct!</string>
+  <string name="answer_incorrect">Incorrect!</string>
+  <string name="answer_cheater">Cheater!</string>
+  <string name="button_cheat">Cheat</string>
+  <string name="tex_cheat_warning">Are you sure you want to cheat?</string>
+
+</resources>
